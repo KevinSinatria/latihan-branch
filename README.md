@@ -1,4 +1,2 @@
 # latihan-branch
-
-
-mangtapp jiwa
+mandro liwo
